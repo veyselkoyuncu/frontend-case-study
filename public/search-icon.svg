@@ -1,0 +1,15 @@
+<!-- public/icons/search-icon.svg -->
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        class="h-5 w-5 text-gray-400"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke="currentColor"
+>
+    <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M10 18a8 8 0 100-16 8 8 0 000 16zm6-2l4 4"
+    />
+</svg>

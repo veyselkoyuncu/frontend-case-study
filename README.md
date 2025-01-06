@@ -8,13 +8,12 @@ This project is a React-based e-commerce application developed using **Next.js**
 ## Table of Contents
 
 1. [Technologies Used](#technologies-used)
-2. [Project Structure](#project-structure)
-3. [Setup Instructions](#setup-instructions)
-4. [Scripts](#scripts)
-5. [Features](#features)
-6. [API Details](#api-details)
-7. [Testing](#testing)
-8. [Figma Design](#figma-design)
+2. [Setup Instructions](#setup-instructions)
+3. [Scripts](#scripts)
+4. [Features](#features)
+5. [API Details](#api-details)
+6. [Testing](#testing)
+7.  [Figma Design](#figma-design)
 
 ---
 
@@ -30,25 +29,6 @@ This project is a React-based e-commerce application developed using **Next.js**
 
 ---
 
-## Project Structure
-
-```
-fronted-case-study/
-├── components/        # Reusable UI components
-├── interfaces/        # TypeScript interfaces
-├── pages/             # Next.js pages
-├── store/             # Redux store setup and slices
-├── styles/            # Global styles
-├── tests/             # Unit and integration tests
-├── public/            # Static assets (e.g., images, icons)
-├── tsconfig.json      # TypeScript configuration
-├── jest.config.js     # Jest configuration
-├── package.json       # Project dependencies and scripts
-└── README.md          # Project documentation
-```
-
----
-
 ## Setup Instructions
 
 ### Prerequisites
@@ -61,7 +41,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/veyselkoyuncu/frontend-case-study.git
    ```
 
 2. Navigate to the project directory:
